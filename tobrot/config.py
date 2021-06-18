@@ -1,9 +1,9 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-  TG_BOT_TOKEN = "1867352803:AAEWcAvUX1MyashAw6LW3gjFubpgzh8QMg0"
-  APP_ID = 6348435
-  API_HASH = "6d4d69b8e43ebb36c15b16a1fe5fcd78"
+  TG_BOT_TOKEN = "1456964191:AAFLkOh48xbnOtRUwlvCv-q2JObLA7vJsOg"
+  APP_ID = 1878625
+  API_HASH = "3ab3e48ba126de2eb96ffff39b18fa09"
   AUTH_CHANNEL = [-1001256038785, -1001408445549, -1001398883981, -1001275361660, -1001273851623]
   INDEX_LINK = "https://tgindex.hackitabirhasan.workers.dev/3:/Uploads"
   YTDL_COMMAND = "ytdl@Leechz_Robot"
